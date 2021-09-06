@@ -1,0 +1,4 @@
+include ':vegetable'
+include ':veg'
+include ':app'
+rootProject.name = "Online Shop"
